@@ -1,7 +1,6 @@
 
 # Ex-3 RECOGNITION OF A VALID ARITHMETIC EXPRESSION THAT USES OPERATOR AND USING YACC
-## Name:Kancharla Narmadha
-## Register No : 212222110016
+# DATE:
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
